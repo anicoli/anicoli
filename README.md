@@ -6,7 +6,6 @@
 
 - 📪 You can reach me on [![X](https://img.shields.io/badge/-@ANicoli90-blue?style=flat&logo=x&logoColor=white)](https://x.com/ANicoli90) or mail me at [![Email](https://img.shields.io/badge/-alesashanicoli@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:alesashanicoli@gmail.com)
 
-- 
 <!--
 **anicoli/anicoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 jjjjj
