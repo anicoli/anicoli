@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+💻 I am a computational chemist who loves to understand how biomolecules interact at the molecular level, as this is central to unravelling the complexity of nature. 
+
+
+
+
+
 <!--
 **anicoli/anicoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 jjjjj
