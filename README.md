@@ -2,6 +2,8 @@
 
 - 💻 I am a computational chemist who loves to understand how biomolecules interact at the molecular level, as this is central to unravelling the complexity of nature.
 
+- ⚗️ Courious about my research 
+
 - 📪 You can reach me on [![X](https://img.shields.io/badge/-@ANicoli90-blue?style=flat&logo=x&logoColor=white)](https://x.com/ANicoli90) or mail me at [![Email](https://img.shields.io/badge/-alesashanicoli@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:alesashanicoli@gmail.com)
 
 - 
