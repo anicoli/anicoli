@@ -2,12 +2,8 @@
 
 - 💻 I am a computational chemist who loves to understand how biomolecules interact at the molecular level, as this is central to unravelling the complexity of nature. 
 
-- 📪 You can reach me on [![X] (https://img.shields.io/badge/Twitter-@yourusername-blue?style=flat&logo=twitter&logoColor=white)](https://x.com/ANicoli90)
-
-Or
-
-[![Twitter](https://img.shields.io/badge/Twitter-@yourusername-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-
+- 📪 You can reach me on [![Twitter](https://img.shields.io/badge/Twitter-@ANicoli90-blue?style=flat&logo=twitter&logoColor=white)](https://x.com/ANicoli90)
+- 
 <!--
 **anicoli/anicoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 jjjjj
