@@ -9,9 +9,9 @@
 - ⚗️ Courious about my research [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=zvjMyfsAAAAJ&hl=it&oi=ao)
 
 - 📪 You can reach me on:
-  - [![X](https://img.shields.io/badge/-@ANicoli90-blue?style=flat&logo=x&logoColor=white)](https://x.com/ANicoli90)
   - [![Bluesky](https://img.shields.io/badge/-@anicoli90.bsky.social-3686f7?style=flat&logo=icloud&logoColor=white)](https://bsky.app/profile/anicoli90.bsky.social)
-  - or mail me at [![Email](https://img.shields.io/badge/-alesashanicoli@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:alesashanicoli@gmail.com)
+  - [![X](https://img.shields.io/badge/-@ANicoli90-blue?style=flat&logo=x&logoColor=white)](https://x.com/ANicoli90)
+or mail me at [![Email](https://img.shields.io/badge/-alesashanicoli@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:alesashanicoli@gmail.com)
 
 <!--
 **anicoli/anicoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
