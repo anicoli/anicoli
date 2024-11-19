@@ -10,7 +10,7 @@
 
 - 📪 You can reach me on:
   - [![Bluesky](https://img.shields.io/badge/-@anicoli90.bsky.social-3686f7?style=flat&logo=icloud&logoColor=white)](https://bsky.app/profile/anicoli90.bsky.social)
-  - [![X](https://img.shields.io/badge/-@ANicoli90-blue?style=flat&logo=x&logoColor=white)](https://x.com/ANicoli90)
+  - [![X](https://img.shields.io/badge/-@ANicoli90-blue?style=flat&logo=x&logoColor=white)](https://x.com/ANicoli90) <\br>
 or mail me at [![Email](https://img.shields.io/badge/-alesashanicoli@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:alesashanicoli@gmail.com)
 
 <!--
