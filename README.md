@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 💻 I am a computational chemist who loves to understand how biomolecules interact at the molecular level, as this is central to unravelling the complexity of nature.
+- 💻 I am a computational chemist who loves to understand how biomolecules interact at the molecular level, as this is central to unravelling the complexity of biology.
 
 - 📍 Molecular Modeling Group at the Leibniz Institute for Food System Biology at the Technical University of Munich and Chemoinformatics and Protein Modelling chair, TUM School of Life Sciences, Technical University of Munich
 
