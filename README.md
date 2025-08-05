@@ -6,6 +6,8 @@
 
 - 🔎 Here is a small interview to get to know me better: [Interview PDF (🇩🇪: p 66-71, 🏴󠁧󠁢󠁥󠁮󠁧󠁿: p 72-73)](https://www.leibniz-lsb.de/fileadmin/doc/PDF/Zweijahresbericht_2020_2021_Leibniz_LSB_Gestaltung_Web_240125.pdf).
 
+- 🎙️ Dr. GPCR podcat on my trajectory and research: [Bio and Podcast](https://www.ecosystem.drgpcr.com/dr-gpcr-podcast/ep-171-with-alessandro-nicoli) - [Youtube interview](https://www.youtube.com/watch?v=c7yysx3F5r4)).
+
 - ⚗️ Courious about my research [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=zvjMyfsAAAAJ&hl=it&oi=ao)
 
 - 📪 You can reach me on:
