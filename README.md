@@ -2,7 +2,7 @@
 
 - 💻 I am a computational chemist who loves to understand how biomolecules interact at the molecular level, as this is central to unravelling the complexity of nature.
 
-- 📍 Molecular Modeling Group at the Leibniz Institute for Food System Biology at the Technical University of Munich and Chemoinformatics and Protein Modelling chair, TUM School of Life Sciences, Technical University of Munich
+- 📍 PostDoc in the Proteinformatics Group at the Institute of Medical Physics and Biophysics, Medical Faculty, Leipzig University, Germany.
 
 - 🔎 Here is a small interview to get to know me better: [Interview PDF (🇩🇪: p 66-71, 🏴󠁧󠁢󠁥󠁮󠁧󠁿: p 72-73)](https://www.leibniz-lsb.de/fileadmin/doc/PDF/Zweijahresbericht_2020_2021_Leibniz_LSB_Gestaltung_Web_240125.pdf).
 
