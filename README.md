@@ -1,4 +1,9 @@
 ## Hi there 👋
+<!--
+![Cover Picture](frame_focus-0001.png)
+-->
+
+<img src="frame_focus-0001.png" alt="Cover Banner" width="100%">
 
 - 💻 I am a computational chemist who loves to understand how biomolecules interact at the molecular level, as this is central to unravelling the complexity of nature.
 
